@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/orange-money-web/static/css/main.0360e6a2.chunk.css",
+    "main.js": "/orange-money-web/static/js/main.a2229f07.chunk.js",
+    "main.js.map": "/orange-money-web/static/js/main.a2229f07.chunk.js.map",
+    "runtime-main.js": "/orange-money-web/static/js/runtime-main.65f46eee.js",
+    "runtime-main.js.map": "/orange-money-web/static/js/runtime-main.65f46eee.js.map",
+    "static/js/2.2630d556.chunk.js": "/orange-money-web/static/js/2.2630d556.chunk.js",
+    "static/js/2.2630d556.chunk.js.map": "/orange-money-web/static/js/2.2630d556.chunk.js.map",
+    "index.html": "/orange-money-web/index.html",
+    "precache-manifest.ce05ff0d51a94bff5ba8006f677726ca.js": "/orange-money-web/precache-manifest.ce05ff0d51a94bff5ba8006f677726ca.js",
+    "service-worker.js": "/orange-money-web/service-worker.js",
+    "static/css/main.0360e6a2.chunk.css.map": "/orange-money-web/static/css/main.0360e6a2.chunk.css.map",
+    "static/js/2.2630d556.chunk.js.LICENSE.txt": "/orange-money-web/static/js/2.2630d556.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65f46eee.js",
+    "static/js/2.2630d556.chunk.js",
+    "static/css/main.0360e6a2.chunk.css",
+    "static/js/main.a2229f07.chunk.js"
+  ]
+}
